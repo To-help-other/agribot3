@@ -1,0 +1,15 @@
+{
+    "jsondata": [
+      {
+        "name": "Hello",
+        "age": 95,
+        "namel": [
+          {
+            "namell": "Kidus G.",
+            "namelll": "Nathan Robel"
+          }
+        ],
+        "age2": 30
+      }
+    ]
+  }
